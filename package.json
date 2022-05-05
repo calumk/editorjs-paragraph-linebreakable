@@ -1,8 +1,8 @@
 {
-  "name": "@calumk/editorjs-paragraph-linebreakenable",
+  "name": "@calumk/editorjs-paragraph-linebreakable",
   "version": "1.0.0",
   "description": "Paragraph, with linebreaks, for EditorJS",
-  "main": "paragraph-linebreakenable.js",
+  "main": "dist/editorjs-paragraph-linebreakable.bundle.js",
   "scripts": {
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch"
