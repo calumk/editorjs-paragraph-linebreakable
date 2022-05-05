@@ -1,5 +1,5 @@
 {
-  "name": "@dsle-packages/editorjs-paragraph-linebreakenable",
+  "name": "@calumk/editorjs-paragraph-linebreakenable",
   "version": "1.0.0",
   "description": "Paragraph, with linebreaks, for EditorJS",
   "main": "paragraph-linebreakenable.js",
