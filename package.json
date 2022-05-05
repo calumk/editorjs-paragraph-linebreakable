@@ -1,0 +1,19 @@
+{
+  "name": "@dsle-packages/editorjs-paragraph-linebreakenable",
+  "version": "3.0.0",
+  "description": "Paragraph, with linebreaks, for EditorJS",
+  "main": "paragraph-linebreakenable.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development --watch"
+  },
+  "author": "Calum Knott",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "svg-inline-loader": "^0.8.2",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
